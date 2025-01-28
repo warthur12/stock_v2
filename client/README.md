@@ -1,3 +1,12 @@
+# .env.local
+```
+AUTH0_SECRET='23cf2c1fae29d009acd8a18f4ceefddf4c1338ea9d78d29947f000bc5ac49f11'
+AUTH0_BASE_URL='http://localhost:3000/'
+AUTH0_ISSUER_BASE_URL='https://dev-uclysjpqscml6mx1.us.auth0.com'
+AUTH0_CLIENT_ID='UZu2HUINM4xO0csXpKazWdScvcxhBbWg'
+AUTH0_CLIENT_SECRET='VfvPhmwtKkH4G2QwXZnuNjlS5EtUVgKHa-XGdpuOL4Yjk_pXPG9A7eYB76iRPzy3'
+```
+
 # The Exchange - Client
 
 This is the client-side code of **The Exchange** project, built using [Next.js](https://nextjs.org/) and styled with Tailwind CSS and Ant Design.

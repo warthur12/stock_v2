@@ -1,3 +1,11 @@
+# env:
+````
+PORT=8080
+DATABASE_URL=mysql://root:root_password@localhost:5432/exc_database?allowPublicKeyRetrieval=true
+TICKCOUNT=5000
+DATABASE_COUNT=150
+```
+
 # Keystone Project Starter
 
 Welcome to Keystone!
